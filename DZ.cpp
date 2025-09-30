@@ -7,7 +7,7 @@ using namespace std;
     setlocale(LC_ALL, " ");
     cout << "Утренняя готовка" << endl;
     int x;
-    cout << "Есть желаение готовить? 1-да; 0-нет ";
+    cout << "Есть желание готовить? 1-да; 0-нет ";
     cin >> x ;
     if (x == 0){
         Varit ();
